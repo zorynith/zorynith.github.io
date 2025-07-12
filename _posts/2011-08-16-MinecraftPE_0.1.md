@@ -6,7 +6,6 @@ categories: MinecraftPE
 excerpt_image: http://blog.minelibs.eu.org/assets/images/title/minecraftpe0.1.jpg
 tags: [Release]
 ---
-v0.1.0 alpha是[携带版](https://blog.minelibs.eu.org/minecraftpe/2011/08/16/%E6%90%BA%E5%B8%A6%E7%89%88.html)首个公开发布的版本，其于2011年8月16日专门为Xperia PLAY游戏主机发布。
 
 
 * ## **携带版0.1**
