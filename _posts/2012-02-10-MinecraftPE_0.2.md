@@ -2,16 +2,16 @@
 layout: post
 title: Minecraft PE 0.2
 categories: MinecraftPE
-excerpt_image: http://blog.minelibs.eu.org/assets/images/title/minecraftpe0.2.jpg
+excerpt_image: https://blog.minelibs.eu.org/assets/images/title/minecraftpe0.2.jpg
 tags: [Release]
 ---
 
 
 * ## **携带版0.2**
-![Alt](http://blog.minelibs.eu.org/assets/images/post/Minecraft_PE_0.2/560px-Pocket_Edition_0.webp)
+![](https://blog.minelibs.eu.org/assets/images/post/Minecraft_PE_0.2/560px-Pocket_Edition_0.webp)
 
 
-![Alt](http://blog.minelibs.eu.org/assets/images/post/Minecraft_PE_0.2/560px-Pocket_Edition_1.webp)
+![](https://blog.minelibs.eu.org/assets/images/post/Minecraft_PE_0.2/560px-Pocket_Edition_1.webp)
 
 v0.2.0 alpha是携带版的一次主要更新，在Android平台上发布于2012年2月10日，在iOS平台上发布于2012年2月17日，加入了生存模式，更改了一些特性并修复了一些漏洞。此版本是Android与iOS设备拥有同等特性的开端。
 
@@ -63,12 +63,12 @@ v0.2.0 alpha是携带版的一次主要更新，在Android平台上发布于2012
 
 Android版修改了Google Play正版验证失败时的提示信息。
 
-![Alt](http://blog.minelibs.eu.org/assets/images/post/Minecraft_PE_0.2/600px-Pocket_Edition_0.webp)
+![](https://blog.minelibs.eu.org/assets/images/post/Minecraft_PE_0.2/600px-Pocket_Edition_0.webp)
 
 Google Play验证失败时的提示（未安装谷歌框架）
 
 
-![Alt](http://blog.minelibs.eu.org/assets/images/post/Minecraft_PE_0.2/600px-Pocket_Edition_1.webp)
+![](https://blog.minelibs.eu.org/assets/images/post/Minecraft_PE_0.2/600px-Pocket_Edition_1.webp)
 
 Google Play验证失败时的提示（已安装谷歌框架）
 
