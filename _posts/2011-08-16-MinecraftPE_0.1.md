@@ -3,15 +3,15 @@ layout: post
 title: Minecraft PE 0.1
 subtitle: 此页面描述的是已经正式终止支持的游戏版本。此版本不再更新，并被基岩版取代。
 categories: MinecraftPE
-excerpt_image: http://blog.minelibs.eu.org/assets/images/title/%E6%90%BA%E5%B8%A6%E7%89%88.png
+excerpt_image: http://blog.minelibs.eu.org/assets/images/title/minecraftpe0.1.jpg
 tags: [Release]
 ---
-v0.1.0 alpha是携带版首个公开发布的版本，其于2011年8月16日专门为Xperia PLAY游戏主机发布。
+v0.1.0 alpha是[携带版](https://blog.minelibs.eu.org/minecraftpe/2011/08/16/%E6%90%BA%E5%B8%A6%E7%89%88.html)首个公开发布的版本，其于2011年8月16日专门为Xperia PLAY游戏主机发布。
 
 
 * ## **携带版0.1**
 
-v0.1.0 alpha是携带版首个公开发布的版本，其于2011年8月16日专门为Xperia PLAY游戏主机发布。
+v0.1.0 alpha是[携带版](https://blog.minelibs.eu.org/minecraftpe/2011/08/16/%E6%90%BA%E5%B8%A6%E7%89%88.html)首个公开发布的版本，其于2011年8月16日专门为Xperia PLAY游戏主机发布。
 
 原本计划v0.1.0 alpha在Android平台上发布，但其被推迟了。该版本具有黑色半透明的方向键，并且背景菜单看起来与v0.1.1 alpha大致相同。
 
