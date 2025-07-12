@@ -9,7 +9,11 @@ tags: [Release]
 
 
 * ## **携带版0.1**
-![Alt](http://blog.minelibs.eu.org/assets/images/post/Minecraft_PE_0.1/560px-Pocket_Edition_0.1.0_in_game.jpg)![Alt](http://blog.minelibs.eu.org/assets/images/post/Minecraft_PE_0.1/560px-Pocket_Edition_v0.webp)
+![Alt](http://blog.minelibs.eu.org/assets/images/post/Minecraft_PE_0.1/560px-Pocket_Edition_0.1.0_in_game.jpg)
+
+
+![Alt](http://blog.minelibs.eu.org/assets/images/post/Minecraft_PE_0.1/560px-Pocket_Edition_v0.webp)
+
 
 v0.1.0 alpha是[携带版](https://blog.minelibs.eu.org/minecraftpe/2011/08/16/%E6%90%BA%E5%B8%A6%E7%89%88.html)首个公开发布的版本，其于2011年8月16日专门为Xperia PLAY游戏主机发布。
 
