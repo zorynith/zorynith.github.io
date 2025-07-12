@@ -43,9 +43,7 @@ author: Zephirel
 copyright: "Minelibs"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  这是一个专注于 Minecraft Bedrock 版的版本存档库，收集整理 Android、iOS 和 Windows 三大平台的历史版本与当前版本。每个版本都附带详细的更新说明和特性介绍。
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://example.com
