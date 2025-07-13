@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Businey</title>
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="./css/style.css" />
+
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="./css/font-awesome.min.css" />
+
+    <!-- Bootstrap Css -->
+    <link href="./css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Magnific-popup css -->
+    <link rel="stylesheet" href="css/magnific-popup.css">
+</head>
+
+<body onload="myFunction()" data-bs-spy="scroll" data-bs-target=".navbar" data-bs-offset="50">
+
+    <!--  BEGIN PRELOADER  -->
+    <div id="loading">
+        <div class="loader"></div>
+    </div>
+    <!--  END PRELOADER  -->
+
+    <!--  BEGIN HEADER  -->
+    <header id="header">
+        <!-- BEGIN NAV -->
+        <nav class="navbar header-nav navbar-expand-xl" id="navbar">
+            <div class="container">
+                <a class="navbar-brand" href="#"><img src="./images/logo.png" style="max-width: 140px;" alt="logo"></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false"
+                    aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"><i class="fa fa-navicon icon-style-menu"></i></span>
+                </button>
+                <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link" href="#home">主页</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#about">关于</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#seek">探索</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#pricing">购买</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link" href="#other">其他版本</a>
+                        </li>
+                        <li class="nav-item">
+                            <div class="btn-navbar">
+                                <a class="custom-btn-CTA nav-link" href="download.html">免费下载 Minecraft</a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- END NAV -->
+    </header>
+    <!--  END HEADER  -->
+
+
+    <!-- BEGIN HOME SECTION -->
+    <section id="home" class="home-bg">
+        <div class="container-fluid">
+            <div class="row align-items-center">
+                <div class="col-sm-12 col-md-12 col-lg-12 p-0">
+                    <div class="home-content text-center">
+                        <div class="home-content-inner">
+                            <h6>Welcome to Minecraft</h6>
+                            <h1><span>创造</span>、<span>探索</span>、<span>生存</span></h1>
+                            <div class="home-btns">
+                                <a href="#about" class="custom-btn-primary">免费下载</a>
+                                <a href="#seek" class="custom-btn-primary">购买正版</a>
+                            </div>
+                        </div>
+                        <div class="down-arrow-btn">
+                            <a href="#about" class="arrrow-btn">
+                                <i class="fa fa-angle-down"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- end section #home -->
+    <!-- END HOME SECTION -->
+
+
+    <!-- BEGIN ABOUT SECTION -->
+    <section id="about" class="about-bg">
+        <div class="container overflow-hidden">
+            <div class="row align-items-center gx-5">
+                <div class="col-sm-12 col-md-12 col-lg-6">
+                    <div class="about-image">
+                        <div class="border-img-solid">
+                            <img src="./images/about.jpg" class="d-block w-100" alt="about">
+                        </div>
+                        <div class="about-img-thumbnail">
+                            <img src="./images/about.jpg" class="d-block w-100" alt="about">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-12 col-lg-6">
+                    <div class="content-detail text-left">
+                        <div class="content-top">
+                            <h6>深入挖掘</h6>
+                            <h2>平台</span></h2>
+                        </div>
+                        <div class="content-bottom content-bottom-about">
+                            <p>购买 Minecraft：Java 和 Bedrock 版*，一次购买即可获得两个版本的游戏。你可以使用一个启动器轻松地在 Java 版和 Bedrock 版之间切换，并与任何拥有 Minecraft 现有版本的玩家一起畅玩，包括游戏主机和移动端。 </p>
+
+                            <ul class="bulletlist">
+                                <li><i class="fa fa-angle-right"></i>*macOS 和 Linux 只与Minecraft：Java 版兼容。
+                                </li>
+                            </ul>
+                            <a href="./download.html" class="custom-btn-secondary ">免费下载</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- end section #about -->
+    <!-- END ABOUT SECTION -->
+
+
+    <!-- BEGIN SPACER SECTION -->
+    <section id="seek" class="spacer-bg">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-sm-12 col-md-12 col-lg-8 mx-auto">
+                    <div class="spacer-inner">
+                        <h2>探索 Minecraft</h2>
+                        <p>在这款终极沙盒游戏中建造出你能想到的所有奇景，揭开诡异秘事的神秘面纱，并在漫漫长夜中生存下来。在 Minecraft 中，每次游玩都有不同体验，世界各处都蕴藏着让人难以忘怀的冒险。在无限世界中探索创造，一步一个方块，这个世界任你塑造。</p>
+                        <a href="https://www.minecraft.net/" class="custom-btn-secondary-variant">前往Minecraft官网</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- end section #spacer -->
+    <!-- END SPACER SECTION -->
+
+    <!-- BEGIN PRICING SECTION -->
+    <section id="pricing" class="pricing-bg">
+        <div class="container">
+            <div class="content-top text-center">
+                <h5>选择平台</h5>
+                <h2>获取 Minecraft</h2>
+            </div>
+            <div class="row align-items-center g-4">
+                <div class="col-sm-6 col-lg-4">
+                    <div class="price-main">
+                        <i class="fa fa-graduation-cap"></i>
+                        <ul class="price">
+                            <li class="header">Minecraft：Java 版和 Bedrock 版</li>
+                            <li class="package">¥89.00<span>/永久</span></li>
+                            <li><i class="fa fa-check icon-style-pricing"></i>Minecraft：Bedrock 版</li>
+                            <li><i class="fa fa-check icon-style-pricing"></i>Minecraft：Java 版</li>
+                            <li><i class="fa fa-check icon-style-pricing"></i>Minecraft Launcher</li>
+                            <li class="grey"><a href="https://www.minecraft.net/store/checkout/minecraft-java-bedrock-edition-pc" class="custom-btn-tertiary">立即购买</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-lg-4">
+                    <div class="price-main">
+                        <i class="fa fa-fort-awesome"></i>
+                        <ul class="price">
+                            <li class="header">Minecraft For Android</li>
+                            <li class="package">$6.99<span>/永久</span></li>
+                            <li><i class="fa fa-check icon-style-pricing"></i>Minecraft: Bedrock Edition</li>
+                            <li class="grey"><a href="https://play.google.com/store/apps/details?id=com.mojang.minecraftpe&utm_source=mcnet_android_buynow_mcov_1425402" class="custom-btn-tertiary">立即购买</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-lg-4">
+                    <div class="price-main">
+                        <i class="fa fa-diamond"></i>
+                        <ul class="price">
+                            <li class="header">Minecraft For Ios</li>
+                            <li class="package">$6.99<span>/永久</span></li>
+                            <li><i class="fa fa-check icon-style-pricing"></i>Minecraft: Bedrock Edition</li>
+                            <li class="grey"><a href="https://apps.apple.com/app/apple-store/id479516143?pt=515380&ct=mcnet_nonJP_ios_buynow_mcov&mt=8_1425402" class="custom-btn-tertiary">立即购买</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- end section #pricing -->
+    <!-- END PRICING SECTION -->
+
+
+    <!-- BEGIN BLOG SECTION -->
+    <section id="other" class="other">
+        <div class="container">
+            <div class="content-top text-center">
+                <h5>探索不同版本，全身心投入适合你游戏风格的世界中！</h5>
+                <h2>选择你的游戏</h2>
+            </div>
+            <div class="row align-items-center g-4">
+                <div class="col-sm-6 col-lg-4">
+                    <div class="blog-main">
+                        <div class="blog-inner">
+                            <div class="post-date">地牢爬行，动作角色扮演类游戏</div>
+                            <img src="./images/01-post.jpg" alt="01-post">
+                            <div class="post-info">
+                                <span><i class="fa fa-user"></i>Minecraft</span>
+                                <span><i class="fa fa-tag"></i>单人游戏+多人游戏</span>
+                            </div>
+                            <h3>Minecraft Dungeons</h3>
+                            <a href="https://www.minecraft.net/zh-hans/about-dungeons" class="tertiary-btn-custom">立即购买</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-lg-4">
+                    <div class="blog-main">
+                        <div class="blog-inner">
+                            <div class="post-date">动作角色扮演类游戏，策略游戏</div>
+                            <img src="./images/02-post.jpg" alt="02-post">
+                            <div class="post-info">
+                                <span><i class="fa fa-user"></i>Minecraft</span>
+                                <span><i class="fa fa-tag"></i>单人游戏+多人游戏</span>
+                            </div>
+                            <h3>Minecraft Legends</h3>
+                            <a href="https://www.minecraft.net/zh-hans/about-legends" class="tertiary-btn-custom">立即购买</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-lg-4">
+                    <div class="blog-main">
+                        <div class="blog-inner">
+                            <div class="post-date">教育，沙盒生存，探险游戏</div>
+                            <img src="./images/03-post.jpg" alt="03-post">
+                            <div class="post-info">
+                                <span><i class="fa fa-user"></i>Minecraft</span>
+                                <span><i class="fa fa-tag"></i>单人游戏+多人游戏</span>
+                            </div>
+                            <h3>Minecraft Education</h3>
+                            <a href="https://education.minecraft.net/" class="tertiary-btn-custom">立即购买</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- end section #blog -->
+    <!-- END BLOG SECTION -->
+    <br>
+    <br/>
+
+    <!-- END CTA-AREA SECTION -->
+
+
+    <!-- BEGIN FOOTER -->
+    <footer>
+        <div class="footer-bottom" id="border-color-change">
+            <div class="container">
+                <div class="row">
+                    <div class="footer-last">
+                        <p class="text-small footer-text-style pt-4 py-lg-4 m-0">Minecraft   |    <a target="_blank" href="https://minelibs.eu.org/" title="主页" class="footer-text-style">  Minelibs</a></p>
+                        <a href="#" class="footer-text-style footer-link py-4 m-0">返回顶部</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- end section #footer -->
+    <!-- END  FOOTER  -->
+
+
+    <!-- Javascript -->
+    <script src="./js/jquery.min.js"></script>
+    <script src="./js/custom.js"></script>
+    <script src="./js/magnific-popup-options.js"></script>
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="./js/bootstrap.bundle.min.js"></script>
+    <script src="./purecounterjs/dist/purecounter.js"></script>
+    <script>
+        var preloader = document.getElementById('loading');
+        function myFunction() {
+            preloader.style.display = 'none';
+        }
+    </script>
+</body>
+
+</html>
